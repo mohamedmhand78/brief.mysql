@@ -1,0 +1,26 @@
+#green{
+    color: #A5DD9B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#red{
+    color: #DF2E38;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sub{
+    padding: 20px 30px;
+    margin-top: 20%;
+    color:white;
+    background-color: #A5DD9B;
+    border-radius: 10px;
+    border: none;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
