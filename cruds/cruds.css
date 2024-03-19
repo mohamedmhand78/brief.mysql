@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+.btn {
+    background-color: #A5DD9B;
+    border: none;
+    border-radius: 5px;
+}
+table {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#addbtn {
+    margin-left: 47%;
+    margin-top: 65px;
+    padding: 13px;
+}
+#addbtn a {
+    padding: 13px;
+}
